@@ -1,0 +1,3 @@
+database:
+  uri: 'sqlite:///users.db'
+secret_key: 'your_secret_key'
